@@ -11,7 +11,7 @@ controls and browser interface.
 - Applied differential-drive control in C++ on the rover’s microcontroller and reduced HTTP requests by
 78% through iterative testing, while keeping the rover movement and the browser interface smooth.
 
-The WiFi setup was mostly done by the starter code that was given to us. All the code in webpage.html was written by me, however the code that is to due with processing data from teh sensors themselves in src/main.cpp was not written by me, but was written by my teammates instead.
+The WiFi setup was mostly done by the starter code that was given to us. All the code in webpage.html was written by me, however the code that is to do with processing data from the sensors themselves in src/main.cpp was not written by me and was written by my teammates.
 
 The browser currently sends requests to `192.168.0.21`. To run it you would need to update the network settings and browser IP address.
 
