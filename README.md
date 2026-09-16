@@ -2,7 +2,7 @@
 
 This is a team project completed at Imperial College London for Electrical and Electronic Engineering students. The rover can be controlled through a browser using a keyboard or a ps4 controller, and uses sensors to identify simulated lunar rocks. Our team finished 3rd out of 30 teams.
 
-##My Contribution
+## My Contribution
 
 - Developed a browser interface using HTML, CSS and JavaScript to control the rover over WiFi, with
 real-time controller inputs, visual user feedback and adjustable controls.
@@ -15,7 +15,7 @@ The WiFi setup was mostly done by the starter code that was given to us. All the
 
 The browser currently sends requests to `192.168.0.21`. To run it you would need to update the network settings and browser IP address.
 
-##Files
+## Files
 - webpage.html — browser interface and control requests.
 - src/main.cpp — movement controls, sensor processing and web-server code.
 - platformio.ini — board configuration and library dependencies
